@@ -4,12 +4,12 @@ Four complete story treatments for the same core premise. Each one takes the pre
 
 | # | Title | Protagonist | Ending | What it argues |
 |---|---|---|---|---|
-| 1 | [The Unfinished](01-the-unfinished.md) | Wren, 24, dye-works labourer | **Tragedy, with a love story.** Wren dies with the guardian and Mira, the person who loves them, at their side. | The voice says trying is pointless. Wren dies, and trying was not pointless. |
+| 1 | [The Unfinished](01-the-unfinished.md) | Wren, 24, dye-works labourer | **Tragedy.** Wren does everything right, and the guardian wins anyway. Mira, who loves them, finds them in the morning. | The voice is wrong about everything, and it wins. Being wrong doesn't stop it. |
 | 2 | [Clean Lines](02-clean-lines.md) | Maren Sollis, 29, the Order's best god-hunter | **Pyrrhic victory.** Maren kills her guardian and becomes a saint of an empty world. (Hidden alternate ending.) | Silencing the voice completely is a death that looks like success. |
 | 3 | [Weather](03-weather.md) | Ilse Harrow, 41, Crown surveyor | **Coexistence.** Ilse lives, the guardian stays, and nothing is cured. | You don't defeat your mind. You learn to live in it, with other people. |
 | 4 | [Two Voices](04-two-voices.md) | Sef Adair, 26, pianist, **and his guardian** (both playable) | **Branching.** Four endings, decided by both halves of the player. | The player is the critic too. |
 
-> **The chosen story, The Unfinished, has been revised and written as a full novel** in [`novel/`](novel/00-revision-notes.md): 29 chapters, about 41,000 words, with gameplay blocks marking how each chapter maps to play. **Where the novel and the treatment disagree, the novel is canonical.** Start with the revision notes.
+> **The chosen story, The Unfinished, has been revised and written as a full novel** in [`novel/`](novel/00-revision-notes.md): 30 chapters, about 43,000 words, with gameplay blocks marking how each chapter maps to play. **Where the novel and the treatment disagree, the novel is canonical.** The treatment still describes the earlier, redemptive ending. Start with the revision notes.
 
 ---
 
@@ -49,7 +49,7 @@ What the Order does not say, and in some stories does not know: **every Stilling
 
 Each protagonist's guardian has turned on them. In each story the guardian is a version of the same thing, the internal voice that says you are inadequate, but each story asks a different question about it:
 
-- **The Unfinished:** what if you learn to live with it too late?
+- **The Unfinished:** what if you do everything right and it still wins?
 - **Clean Lines:** what if you kill it and win?
 - **Weather:** what if it never really leaves?
 - **Two Voices:** what if you have to be it?
@@ -60,7 +60,7 @@ Each protagonist's guardian has turned on them. In each story the guardian is a 
 
 These rules apply across all four stories. The game deals with depression, shame, self-hatred and, implicitly, suicidal thinking. A guardian that tries to kill its host is a metaphor for suicidal ideation, and players who have lived with it will read it that way.
 
-1. **The voice is never proven right.** Even in the tragedies, the story shows that the guardian's central claim, *trying is pointless*, is false.
+1. **The voice is never proven right.** It can win. It is never right. Even in the tragedies, the story shows that the guardian's claims, *trying is pointless* and *nobody will notice*, are false.
 2. **Death is never presented as release.** When characters die, it is a loss. Players should feel it as one.
 3. **No method detail, ever,** literal or metaphorical.
 4. **The Stilled are not villains and not jokes.** They are people who chose relief, and the cost of that choice should be shown with compassion.
@@ -72,7 +72,7 @@ These rules apply across all four stories. The game deals with depression, shame
 
 ## Which one to build?
 
-My recommendation is **The Unfinished** as the main game. It has the strongest single emotional arc, it uses every mechanic from the original pitch, and its final boss turns the guardian's interference into the player's weapon, which is the best payoff for the core system.
+My recommendation is **The Unfinished** as the main game. It has the strongest single emotional arc, it uses every mechanic from the original pitch, and its ending uses the core system against the player: the final boss is a win that doesn't save Wren, and the last chapter takes away the **[ GET UP ]** prompt the player has held every morning since the first scene.
 
 **Two Voices** is the most original and the most likely to get critics talking, but playing as the guardian is effectively a second game, and it's out of scope for a solo developer unless that's the *only* idea built.
 

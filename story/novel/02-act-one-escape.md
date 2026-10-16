@@ -236,7 +236,7 @@ Then she opened it. Just like that. She slid her thumb under the flap, and took 
 
 Tess folded it up again.
 
-"Huh," she said. "She's fine. She married a cooper." She thought about it. "That's nice."
+"Huh," she said. "She wasn't well." She looked at the sheet again, as if checking a delivery address. "She asked me to come. She says I said once I'd always come." She thought about it. "That's a shame."
 
 She put the letter down on the step beside her. She stood up, and stretched, and looked up and down the Tollway road, at all its painted signboards. She picked up one satchel, and then, after a moment's consideration, the other two.
 
@@ -342,7 +342,7 @@ Wren read it twice. The second time, they noticed their hands had stopped shakin
 
 Wren folded the letter and put it inside their coat with the other one.
 
-> ◆ **GAME** · If the player sent **only guardian lines**, the Hexham reply is the gentler, news-only variant, and the guardian line is *"See? She didn't even notice."* The honest variant (above) is canonical for the novel. Over Acts 1–2, Mira's letters respond to the **pattern** of what's been sent: careful and newsy if Wren is always "fine", direct and specific when Wren is honest. **Every letter, in every branch, ends "There's a cup on the windowsill. — M."**
+> ◆ **GAME** · If the player sent **only guardian lines**, the Hexham reply is the gentler, news-only variant, and the guardian line is *"See? She didn't even notice."* The honest variant (above) is canonical for the novel. Over Acts 1–2, Mira's letters respond to the **pattern** of what's been sent: careful and newsy if Wren is always "fine", direct and specific when Wren is honest. Mira never makes a speech in a letter. She sends news, and a question, and sometimes the cup.
 
 ---
 

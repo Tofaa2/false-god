@@ -72,7 +72,7 @@ Wren stood up. Wren got dressed. Wren went out.
 
 Lowmarrow in the early morning was a pencil sketch someone had started to ink and then lost interest in.
 
-The main street still had its lines: the cobbles were drawn in, every one, though thinly, and the shopfronts kept their lettering. But the colour had mostly gone out of it during Wren's lifetime, and what was left was the colour of things that have been washed too often. The baker's awning had once been red. Wren could remember it red. It was the pink of a scar now. The great iron post of the Midwinter Lamp stood in the middle of the square with its glass cage at the top, unlit since spring, rust drawn on it in a few tired hatches.
+The main street still had its lines: the cobbles were drawn in, every one, though thinly, and the shopfronts kept their lettering. But the colour had mostly gone out of it during Wren's lifetime, and what was left was the colour of things that have been washed too often. The baker's awning had once been red. Wren could remember it red. It was the pink of a scar now. The great iron lamp-post stood in the middle of the square with its glass cage at the top and rust drawn on it in a few tired hatches. It was lit every night and made very little difference.
 
 Everyone had their god with them. Everyone always did.
 
@@ -108,7 +108,9 @@ There wasn't any worry in it. It was an observation, the way she might say it lo
 
 "It is a tired sort of face," she agreed pleasantly, and split another pod.
 
-Wren had been eleven when she went to a Reckoning and came back quiet. Wren remembered the evening exactly: the door, and their mother coming through it and taking off her coat and hanging it on the hook, the right way up, which she never did, and then making supper. The heron had walked in behind her, small and grey and silent. That night there was no crying through the wall. Nor the night after. Wren had lain in bed for a week listening to the quiet and feeling something that took years to name, and when they finally named it, it was *relief*, and it was the worst thing Wren knew about themself.
+Wren had been nine when two Stillers came to the house and took her to the town hall, and she came back quiet. Wren remembered the evening exactly: the door, and their mother coming through it and taking off her coat and hanging it on the hook, the right way up, which she never did, and then making supper. The heron had walked in behind her, small and grey and silent. That night there was no crying through the wall. Nor the night after. Wren had lain in bed for a week listening to the quiet and feeling something that took years to name, and when they finally named it, it was *relief*, and it was the worst thing Wren knew about themself.
+
+Wren had never known who sent for the Stillers. Nobody had ever said. Wren had never asked, and when the question came near, something in them stepped quickly out of its way, the way you step round a loose board in a floor you've lived on all your life.
 
 She had been kind ever since. She had never been unkind before, either. She had only been there, and now she wasn't, and nobody in Lowmarrow thought of it as a loss, because she slept well and she was pleasant at church and the peas got shelled.
 
@@ -174,7 +176,7 @@ At twelve the bell at the town hall began to ring for the Reckoning.
 
 ---
 
-Oren Tamsin was at the foot of the Midwinter Lamp with a ladder, checking the iron.
+Oren Tamsin was at the foot of the square lamp with a ladder, checking the iron.
 
 He was a big man, wide and slow and soft-spoken, with a lamplighter's long pole slung on his back even in daylight out of habit, and a face that looked worried even when it wasn't, because it so often was. His god was circling the ladder. The Lantern-Hound was the size of a pony, all scruff and orange ink, the only properly warm colour on the square, with a lantern burning in its chest where its heart should be. It barked at a cat. It barked at the wind. It barked at a leaf that moved and then at the same leaf when it stopped moving.
 
@@ -251,6 +253,8 @@ He didn't say it loudly. He didn't have to. The hall was quiet, and people were 
 "It doesn't — it doesn't really come out," said Wren. Their voice did something they hadn't told it to, a small catch in the middle of *really*.
 
 "Then I'll go to it," said the assessor, kindly, and stood, and leaned over the desk, and reached two fingers toward the empty air behind Wren's left shoulder.
+
+*No,* said the voice. It wasn't flat any more. *No. Not this line. Not this room. We said. We said we wouldn't do this again.*
 
 > ◆ **GAME** · Slow-motion beat as the fingers approach. The audio thins to the scratch of a pencil on paper, getting louder.
 
@@ -462,17 +466,21 @@ The Mender had an answer. While they stood there, it reached out past Mira's sho
 
 "No."
 
-She looked at Wren for a long time. Then she put her hand in her coat pocket and took out a spool of thread. It was red. Real red, deep and wet-looking, the colour of the baker's awning when Wren was a child. Wren hadn't seen red like that in years.
+She looked at Wren for a long time. She didn't argue. Mira never argued past the point where it would have turned into begging.
 
-The Mender took the loose end from the spool and tied it to the dye works gatepost in a neat, tight knot, and pulled it twice to test it.
+The Mender did something instead. It reached into its own woollen chest, the way a person feels in a pocket, and drew out a spool of thread. It was red. Real red, deep and wet-looking, the colour of the baker's awning when Wren was a child. Wren hadn't seen red like that in years. It wasn't from any shop. Gods' things never were. It was the stuff the Mender was made of, wound small.
 
-"Then take this," said Mira, and pressed the spool into Wren's hand, and closed Wren's fingers over it with hers. "It'll unwind as you go. If you ever want to come back, it'll show you the way."
+It tied the loose end to the dye works gatepost in a neat, tight knot, and pulled it twice to test it. Then it held the spool out to Wren.
 
-"It's a spool of thread, Mira. It'll run out at the end of the lane."
+Mira looked embarrassed. "It does that," she said. "It can't stand a loose end."
 
-"Then you'll be at the end of the lane," said Mira, "and you'll know which way's home."
+"Mira, I can't take —"
 
-> ◆ **GAME** · Wren receives **the Red Thread**. From here on it unwinds behind Wren through every level as a thin, vivid red line. It is the **one route the guardian can never edit**: when the guardian rewires a level, following the thread backward is always a way out. It appears on the map. The game never explains why it works.
+"Humour it." She took the spool from the Mender and pushed it into Wren's coat pocket herself, and kept her hand there over it for a second longer than she needed to. "Keep it in your pocket. That's all. It'll feel better."
+
+She didn't say who would feel better.
+
+> ◆ **GAME** · Wren receives **the Red Thread**. From here on it unwinds behind Wren through every level as a thin, vivid red line. It is the **one route the guardian can never edit**: when the guardian rewires a level, following the thread backward is always a way out. It appears on the map. The rule underneath, never stated: the thread is the Mender's own substance, so it pays out as long as Mira has it to give. In Act 3 it runs out, because she does.
 
 Wren left.
 

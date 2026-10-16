@@ -10,7 +10,7 @@ Severine already knew. Wren saw it on her face in the courtyard. For the first t
 
 "The watchers on the south road sent word," she said. "Two days ago. A waystation. And a sheep farm at Crane Moss. And a mile of the Corran road." She looked at Wren for a long moment. "Come up."
 
-> ◆ **GAME** · Severine's study unlocks. It is the **only room in the Stillhouse with any clutter**: books stacked on the floor, a cold cup on the windowsill, a moth-eaten armchair, a small coal fire, a child's drawing pinned over the desk (faded to almost nothing, unexaminable until Chapter 27). Wren and the player see it for the first time with the guardian silent and the pencil-scratch audio ever-present.
+> ◆ **GAME** · Severine's study unlocks. It is the **only room in the Stillhouse with any clutter**: books stacked on the floor, a cold cup on the windowsill, a moth-eaten armchair, a small coal fire. Wren and the player see it for the first time with the guardian silent and the pencil-scratch audio ever-present.
 
 It was a small room at the top of the west tower, and it was the only room in the Stillhouse that looked lived in. There were books on the floor in stacks. There was a moth-eaten armchair with a blanket over the back, and a little coal fire, and a kettle on a hob. There was a teacup on the windowsill with a skin on it, forgotten. Wren looked at the teacup and something in their chest turned over, and they didn't know why.
 
@@ -50,7 +50,7 @@ Wren looked at her.
 
 "I was twelve," Severine said. "When I did it. My god used to tell me I'd be better off not here, and I was twelve, and I believed it. I believed it with my whole heart. And I went to an old Stiller in the town where I grew up, and I asked her to make it stop, and she did." She looked into her tea. "I haven't been frightened since. Not once. Fifty years. I've had a good, useful life, and I've helped thousands of people, and I have never once lain awake. It isn't nothing, Wren. I know you think it's nothing. It isn't. I promise you it isn't."
 
-Wren thought about a doorstep at the top of Cobble Lane. A bowl of peas. *That'll be nice.*
+Wren thought about a doorstep at the top of Cobble Lane. A bowl of peas. *That'll be nice.* And under that, newer, a kitchen with the tap running, and an old woman in white leaning over a desk to see a child.
 
 "Then who'd be living it?" Wren said.
 
@@ -80,21 +80,21 @@ Severine smiled at that, a little, sadly.
 
 ### Chapter 19: The Gate, Again
 
-It was snowing at the gate.
+It was snowing at the gate. The first snow.
 
 Wren came down the long white steps of the Stillhouse with Oren behind them and the scratching all around them in the snow. Wren was trying to remember the way south. Trying to remember anything. And there was someone standing at the end of the white road in the snow, small and dark against all that white, and for a moment Wren thought it was a Stiller, and then that it was a post, and then they saw the red.
 
-The thread. It came in across the white flagstones from the south, as it always had, Wren's own thread, unwinding behind Wren's own feet. But it didn't stop at Wren. It went on past them, down the steps, through the gate, and away down the white road. And there, at the gate, someone was holding the other end of it.
+The thread. It came in across the white flagstones from the south, as it always had, Wren's own thread, unwinding behind Wren's own feet. But it didn't stop at Wren. It went on past them, down the steps, through the gate, and away down the white road. And there, at the gate, someone was holding it.
 
-Not the other end. *Winding* it. There was a figure beside her made of darning wool, with a spool in its hands the size of a cartwheel, and it was winding the red thread in, slowly, steadily, hand over hand, as she walked.
+Not holding. *Winding* it. There was a figure beside her made of darning wool, with the thread running into its hands and the spool of its own chest growing as it wound, slowly, steadily, hand over hand, as she walked.
 
-She'd followed it. All the way. Three hundred miles of thread, backwards, from a gatepost at the bottom of Lowmarrow to here.
+She'd followed it. All the way. Three hundred miles of thread, backwards, from a gatepost at the bottom of Lowmarrow to here. She had written that she would come if she didn't hear, and Wren had read the letter out loud in a pleasant voice and put it in a drawer.
 
 Mira's coat was torn at the hem. Her boots were wrecked; one of them was tied together with thread. Her hair had come loose from its bit of string and was white with snow. She saw Wren, and stopped.
 
 She didn't run. Wren would remember that. She walked the last part steadily, carefully, the way you walk toward someone in the road who might bolt.
 
-> ◆ **GAME** · Cutscene. **Mira joins the party** for the rest of the game as a second companion alongside Oren. She is not a combatant, but the Mender acts in the world (see Chapter 21). Wren's companion banter in Act 3 changes completely: Mira talks, Oren listens, and Wren answers honestly more often as the act goes on.
+> ◆ **GAME** · Cutscene. **Mira joins the party** for the rest of the game as a second companion alongside Oren. She is not a combatant, but the Mender acts in the world (see Chapter 21). Wren's companion banter in Act 3 changes completely: Mira talks, Oren listens, and Wren's dialogue wheel begins, slowly, to offer options in Wren's own ink.
 
 "You stopped answering," said Mira.
 
@@ -108,7 +108,7 @@ She was quiet. "When?"
 
 Wren couldn't find the words. Wren tried twice and they didn't come.
 
-"After," Wren said. "When I couldn't — Mira, I read them when it didn't matter. When I couldn't feel them. I read every one of them out loud and I didn't feel anything at all. I'm sorry. I'm so sorry."
+"After," Wren said. "When I couldn't — Mira, I read them when it didn't matter. When I couldn't feel them. I read every one of them out loud and I didn't feel anything at all. I read the last one and I said *that's nice*." Wren's voice went. "I'm sorry. I'm so sorry."
 
 She looked at Wren. She looked properly, for a long time, in the snow: at the white sash with its silver edge, at the grid lines faint in the snow around Wren's boots, at the stillness in Wren's face that hadn't quite gone. And then her eyes went to Wren's left side, where the coat hung wrong. As though there were less of Wren inside it than there should be.
 
@@ -124,19 +124,23 @@ When Wren had finished, Mira didn't say anything. She stood very still in the sn
 
 The Mender moved first.
 
-It put down the great spool of thread on the white flagstones. It stepped forward past Mira's shoulder, and reached out its long woollen hand, needle-finger raised, toward Wren's left side. And before Wren could step back, it had taken hold of the edge of the gap, where Wren's line stopped and the paper began. And it began to sew.
+It stepped forward past Mira's shoulder, and reached out its long woollen hand, needle-finger raised, toward Wren's left side. And before Wren could step back, it had taken hold of the edge of the gap, where Wren's line stopped and the paper began. And it began to sew.
 
 "Mira —" said Wren.
 
 "Let it," said Mira.
 
-It sewed very fast. Red thread. Small, neat, tight stitches, one after another, down from the shoulder, drawing the two edges of Wren's line back together like the edges of a torn sleeve. Wren felt every one of them. They didn't hurt. They felt like being held.
+It sewed very fast. Red thread. Small, neat, tight stitches, one after another, down from the shoulder, drawing the two edges of Wren's line back together like the edges of a torn sleeve. Wren felt every one of them. They didn't hurt. They felt like being held too tightly by someone who is frightened.
 
 Where the stitches closed, colour came back.
 
 Wren looked down and watched it happen. Wren's own colour, the faded brown and grey of their coat and the tired pink of their hand, coming back into the arm under the red stitches like warmth coming back into cold fingers. The Mender sewed all the way to the wrist, and tied off, and bit the thread.
 
 For the first time in Wren's life, their outline was whole. Closed. All the way round.
+
+In the walls of the Stillhouse, and in the snow, the scratching stopped.
+
+It stopped for perhaps three seconds. Then it went on, a little slower than before, the way a person writes when they've thought of something.
 
 "There," said Mira. Her voice cracked in the middle of it and she kept going anyway. "There. You see? *There.*"
 
@@ -146,7 +150,7 @@ For the first time in Wren's life, their outline was whole. Closed. All the way 
 
 > ◆ **GAME** · Wren's **kit at the start of Act 3**: all five abilities, plus **Stitches**, a temporary bonus to maximum health from the Mender's sewing, renewed at each lamp and eroded by every fight. **The underdrawing spreads from Wren in a large radius** as they travel. NPCs within it go to pencil. **Stiller patrols** now roam the roads. The guardian is silent; the pencil-scratch audio is constant.
 
-They went south, three of them now, with the Mender winding and unwinding the thread as they walked. Oren lit the lamps. Mira sewed. Wren walked in the middle and tried not to look behind them, where the world went to grid.
+They went south, three of them now, with the Mender paying the thread out behind them as they walked. Oren lit the lamps. Mira sewed. Wren walked in the middle and tried not to look behind them, where the world went to grid.
 
 Corran was worse than it had been on the way north to the Stillhouse. The furnaces were still going in their long brick sheds, but the glass they lit was grey, and the great green spire was a pale ghost of itself, and the people in the streets were faint, faint pencil, barely there at all. Wren walked down the high street with the underdrawing spreading out around them, and watched a woman sweeping her step go from ink to pencil to almost nothing as Wren passed, and keep sweeping, and smile.
 
@@ -210,13 +214,19 @@ The cobbles under Wren's feet were ink.
 
 Not grid. Not pencil. Ink. Thin, tired, faded Corran ink, but ink, real, the lines drawn in, the stones with their shading. A yard of it around Wren's boots. And beyond that yard, the grid went on, faint blue squares out across the street, and the sweeping woman on her step was still pencil. But around Wren, the underdrawing had pulled *in*. Like a tide going out. A yard. A yard and a half.
 
+Mira saw it too. Her hand tightened on Wren's arm.
+
+"It's going back," she said. "Wren. It's going *back*. If you give them all back —" She stopped herself, the way people stop themselves on the edge of hoping out loud. Then she said it anyway. "If you give them all back, maybe it closes. Maybe it was only ever the weight."
+
 Wren looked back over their shoulder.
 
 The guardian was standing in the middle of the street.
 
-It hadn't been there a moment before. It had come up out of the paper, the way it had come up out of the floor of the Quiet Room, only it wasn't enormous now. It wasn't wearing anything. No lantern, no glass, no letters, no weed, no veil. It was only grey pencil. Construction lines. A thin, tall, faceless thing in the middle of a grey street, with a crosshair where its face should be.
+It hadn't been there a moment before. It had come up out of the paper, the way it had come up out of the floor of the Quiet Room, only it wasn't enormous now. It wasn't wearing anything. No lantern, no glass, no letters, no weed, no veil. A thin, tall, faceless thing in the middle of a grey street, with a crosshair where its face should be.
 
 It was exactly Wren's height.
+
+And its lines were darker than Wren remembered. Not the faint grey under-marks of the town hall. Something heavier. Something nearer to ink.
 
 It looked at Wren. Wren looked at it. And for the first time since a white room at the bottom of a white stair, it spoke.
 
@@ -240,13 +250,15 @@ The guardian didn't say anything to that.
 
 It stood in the street with its crosshair face turned toward Wren, and the grey grid around it, and it said nothing at all. It had had something to say about everything for fifteen years. It had never once had anything to say to that.
 
-Mira looked from Wren to the empty air beside them. She couldn't hear it. She could see it. She could see something tall and grey standing in the street, and Wren talking to it.
+Mira looked from Wren to the thing in the street. She couldn't hear it. She could see it, as anyone could see a god: something tall and grey standing in the road, and Wren talking to it.
 
 "What's it saying?" she asked.
 
 "Nothing," said Wren. "It's not saying anything."
 
-> ◆ **GAME** · **THE DISCOVERY.** From here, Act 3's core loop is explicit: **every god returned shrinks the underdrawing radius around Wren and makes the guardian re-form smaller.** It also **removes that god's ability from Wren's kit.** Act 3 is the only act in which **the player gets weaker by doing the right thing.** The map now shows the remaining Stilled hosts. **There isn't enough time to reach all of them in one route.** The Fade is accelerating and Stiller patrols cut roads, so route order is a real decision. *(Canonical novel route: Corran → Velle → the Drowned Parish → Hexham → Hollin's Lamp → Lowmarrow.)*
+> ◆ **GAME** · **THE DISCOVERY.** From here, Act 3's core loop is explicit: **every god returned pulls the underdrawing radius in toward Wren**, and **removes that god's ability from Wren's kit.** Act 3 is the only act in which **the player gets weaker by doing the right thing.** The map now shows the remaining Stilled hosts. **There isn't enough time to reach all of them in one route.** The Fade is accelerating and Stiller patrols cut roads, so route order is a real decision. *(Canonical novel route: Corran → Velle → the Drowned Parish → Hexham → Hollin's Lamp → Lowmarrow.)*
+>
+> **What the player isn't told:** the shrinking radius reads as healing, and Wren, Mira and the player are meant to read it that way. It isn't. The underdrawing is not leaving. It is **withdrawing from the world into Wren.** Each time the guardian re-forms after a return, it is **more finished**: darker line, more detail, and, by stages, more like Wren. Corran: Wren's height, ink-dark lines. Saltby: Wren's coat. Hexham: the start of Wren's face. Lowmarrow: a clean, inked drawing of Wren. Never call this out. Let the art do it.
 
 ---
 
@@ -264,7 +276,9 @@ The second week, they tore by noon. Wren felt it happen, out on the road, a soft
 
 The third week, they tore by the middle of the morning.
 
-Mira started sewing at midday as well. They'd stop on the road, and she'd make Wren sit on a wall, and the Mender would sew. Three rows, now. Four. The stitches got smaller. Then they got bigger, and faster, and messier, crooked, the thread knotting. The Mender's long woollen fingers began to shake.
+Mira started sewing at midday as well. They'd stop on the road, and she'd make Wren sit on a wall, and the Mender would sew. Three rows, now. Four. The stitches got smaller. Then they got bigger, and faster, and messier, crooked, the thread knotting. The Mender's long woollen fingers began to shake. And the thread was thinner. Wren noticed that before Mira did. It wasn't the deep wet red it had been at the gate. It was the red of the baker's awning now, the scar-pink. The Mender was running low on itself.
+
+So was Mira. She was sleeping two hours a night. She was eating whatever Oren put in her hands and not noticing what it was.
 
 "Mira," said Wren, on a wall outside Dunmere, with the fourth row going in. "Mira, you're —"
 
@@ -272,7 +286,7 @@ Mira started sewing at midday as well. They'd stop on the road, and she'd make W
 
 "You're unpicking your own coat."
 
-She was. The thread had run out, the great spool empty. And the Mender had begun, without stopping, without being asked, to unpick the hem of Mira's coat and use that instead. Brown wool. Grey. The lining. Whatever came.
+She was. The thread had run out. And the Mender had begun, without stopping, without being asked, to unpick the hem of Mira's coat and use that instead. Brown wool. Grey. The lining. Whatever came.
 
 "It doesn't matter," said Mira. "I've got another coat at home."
 
@@ -280,7 +294,7 @@ They went on.
 
 ---
 
-> ◆ **GAME** · **The guardian's interference reverses during Act 3.** Without explanation, it begins to **protect** Wren: it rubs out a bridge just ahead of a Stiller patrol, draws a doorway into a wall at the end of a dead-end alley, tilts a roof so a Warden's charge slides off. Players who've spent two acts hating its edits will notice the edits are now pointing **outward**. **Watchlight** still shows the edits glowing, and they now glow **warm grey** rather than cold.
+> ◆ **GAME** · **The guardian's interference turns outward during Act 3.** Without explanation, it begins to **protect** Wren: it rubs out a bridge just ahead of a Stiller patrol, draws a doorway into a wall at the end of a dead-end alley, tilts a roof so a Warden's charge slides off. Players who've spent two acts hating its edits will read this as the guardian softening. **It isn't.** It is keeping anyone else from taking what it means to finish itself. **Watchlight** still shows its edits glowing, and they now glow in a dark, steady line, closer to ink than pencil.
 
 There were Stillers on the roads now. Severine had kept her word, as far as Wren could tell; nobody had come for Wren yet. But they were out. Pairs of them, in white, on the crossroads and at the bridges, watching the grid spread across the sky to the south. Twice Wren saw them in the distance and went round. Once they couldn't go round.
 
@@ -292,7 +306,7 @@ Wren watched it go. One stroke at a time, from the Stillers' side. Parapet, arch
 
 Wren looked round.
 
-The guardian was standing on the bank behind them. It had come up out of the paper again. It was a little shorter than Wren now; Wren could see over the top of it. Its long pencil hand was raised toward the bridge. It lowered it.
+The guardian was standing on the bank behind them. It had come up out of the paper again. Its long hand was raised toward the bridge. It lowered it.
 
 *They'd have taken you,* it said. It sounded almost defensive. *Before you'd finished.*
 
@@ -310,7 +324,7 @@ Wren lay on their back on the heather with their arm out on Mira's knee, and the
 
 It began to sew other things.
 
-It sewed Wren's sleeve to the heather. It sewed the cuff of Wren's coat to the hem of Mira's skirt. It reached out, past Wren, past the lamp, and sewed Oren's bootlace to the fencepost while he slept. It sewed the grass. It began, in a little frantic flurry of crooked red, to sew the air, to stitch shut the dark around the lamp, small knots and loops of thread hanging in the empty night as though there were something there to hold together.
+It sewed Wren's sleeve to the heather. It sewed the cuff of Wren's coat to the hem of Mira's skirt. It reached out, past Wren, past the lamp, and sewed Oren's bootlace to the fencepost while he slept. It sewed the grass. It began, in a little frantic flurry of crooked brown and grey, to sew the dark around the lamp, small knots and loops of wool hanging in the empty night as though there were something there to hold together.
 
 Its long woollen fingers were shaking so much the needle kept missing.
 
@@ -322,13 +336,13 @@ Its long woollen fingers were shaking so much the needle kept missing.
 
 Wren looked up past her, at the dark.
 
-The guardian was sitting on the other side of the lamp. Just at the edge of the light. It was smaller again: smaller than Wren, sitting cross-legged in the heather, its pencil lines cleaner now, fewer guide marks. It was watching the Mender. It watched it sew the grass, and sew the air, and miss with the needle, and sew again.
+The guardian was sitting on the other side of the lamp. Just at the edge of the light. It was sitting cross-legged in the heather, the way Wren sat, and it had Wren's coat on now. Not traced, the way it had traced the Hound's lantern and the Draft's glass in the training yard. Drawn. The same coat, with the same split in the cuff that the Mender had darned at the gate the night they left. It was watching the Mender. It watched it sew the grass, and sew the air, and miss with the needle, and sew again.
 
-*She's trying to keep you,* it said, very quietly.
+*She's going to run out,* it said, very quietly. Not cruelly. The way you'd point out that it was getting dark.
 
 It watched the Mender for a long time.
 
-*I know what that looks like,* it said.
+*And then what will she have left?*
 
 ---
 
@@ -351,6 +365,8 @@ It was perfect.
 It was the same play. Every line was exactly where it had been. Every gesture was placed. Juniper was the Queen, and she was magnificent, in exactly the way a perfect statue of a woman is magnificent. She was furious and tender and terrible, all on cue. And in the second act, when her son betrayed her, she sat down on the floor of the stage and said, *"Oh,"* very precisely.
 
 Nobody in the audience made a sound.
+
+Between the scenes, Wren watched the wings. Juniper came off and stood in the shadow of the flats, in the same place. She didn't turn her back. She didn't press her hands to her stomach. She stood, and waited for her cue, and went on.
 
 They applauded at the end. They applauded politely, steadily, for exactly as long as was right, and then they got up and went home.
 
@@ -412,7 +428,7 @@ When Wren opened their eyes, Juniper had sat back down.
 
 Juniper looked at Wren for a long time.
 
-"I know," she said. "That's what makes it hard." And then, quite kindly: "You hold your hands differently now. Did you know? You fidget."
+"I know," she said. "That's what makes it hard."
 
 ---
 
@@ -434,13 +450,11 @@ They stood under the lamp. Mira took her hands away from her face.
 
 The guardian was standing in the shadow at the edge of the lamplight, behind Mira, where she couldn't see it. It was looking up the hill, at the Lyceum.
 
-*She's frightened,* it said, to Wren. It sounded as though it had only just understood the word. *Isn't she. That's all it is. She's frightened of the room, after.*
+*She asked for it,* it said, to Wren. *And they gave it to her. And she sleeps.* It said it without any edge at all, the way it had once said *nobody will notice*. *Nobody calls her a coward.*
 
-"Yes," said Wren.
+Wren didn't answer it.
 
-The guardian kept looking at the theatre.
-
-*I'd be frightened too,* it said.
+*I'm only saying,* said the guardian. *It's allowed.*
 
 ---
 
@@ -486,9 +500,9 @@ Hal sat with that for a while. The rain fell into the lake around the boat in li
 
 Wren put their hand on Hal's chest.
 
-> ◆ **GAME** · **Return: the Undertow.** The player holds the prompt **[ GIVE IT BACK ]**. **UNDERTOW is lost from the kit.** The guardian re-forms visibly **smaller** nearby.
+> ◆ **GAME** · **Return: the Undertow.** The player holds the prompt **[ GIVE IT BACK ]**. **UNDERTOW is lost from the kit.** The underdrawing radius pulls in. The guardian re-forms nearby, more finished.
 
-It went out of Wren heavy and slow, the way it had gone in, like cold water out of a boot. Down the arm. Out of the torn gap, through the frayed red stitches. Into Hal.
+It went out of Wren heavy and slow, the way it had gone in, like cold water out of a boot. Down the arm. Out of the torn gap, through the frayed stitches. Into Hal.
 
 The rain got heavier.
 
@@ -516,7 +530,7 @@ It went on. He didn't hurry it. He looked down through the water at each roof as
 
 Mira was holding Wren's sleeve, very tight. When Wren looked at her, she was watching Hal, and her face was wet, and it wasn't the rain.
 
-"Annie used to hum," said Hal, at the end. "When she was cross. Did you know that? She'd be at the sink, cross as anything with me, and humming. Some hymn. I'd forgotten that." He wiped his face with the back of his hand. "I'd forgotten *that*."
+"Annie used to hum," said Hal, at the end. "When she was cross. She'd be at the sink, cross as anything with me, and humming. Some hymn. I'd forgotten that." He wiped his face with the back of his hand. "I'd forgotten *that*."
 
 He sat in the boat in the rain with his drowned family under him. And after a long time he picked up the oars and began to row again, slowly, round the parish. Only now he looked down as he rowed, at each roof as it passed, and it was hard, and it was heavy, the way it was supposed to be.
 
@@ -524,21 +538,21 @@ He sat in the boat in the rain with his drowned family under him. And after a lo
 
 They rowed back to the shore. Wren's arms didn't work properly any more; Mira rowed.
 
-On the shingle, Wren looked back. The guardian was sitting in the stern of the dinghy. Wren hadn't seen it get in. It was small now. Smaller than Mira. It sat in the stern with its pencil knees drawn up, looking back across the lake at the old man in his boat, rowing round and round, looking down.
+On the shingle, Wren looked back. The guardian was sitting in the stern of the dinghy. Wren hadn't seen it get in. It sat with its knees drawn up the way Wren sat, in Wren's coat, looking back across the lake at the old man in his boat, rowing round and round, looking down.
 
-*He's crying,* it said.
-
-"Yes."
-
-*You made him cry.*
+*He'll row like that until he dies,* it said. *Looking down. Every day.*
 
 "Yes."
 
-It was quiet for a while.
+*You did that to him.*
 
-*It's better, isn't it,* it said. It didn't sound sure. It sounded as if it were trying the idea out, the way you'd test the ice on a pond with one foot. *Than him not.*
+"Yes."
 
-Wren didn't answer. They didn't need to. The guardian sat in the stern of the dinghy and watched Hal row until the boat was a speck in the rain.
+It was quiet for a while. It wasn't gloating. It never gloated now. It only sat, and watched, and was reasonable.
+
+*Some people get the quiet,* it said. *And some people get that. And you're the one who decides which. You took it off him and you gave it back, and he didn't ask either time.* It turned its crosshair face toward Wren. *Who's going to decide for you?*
+
+Wren didn't answer. The guardian sat in the stern of the dinghy and watched Hal row until the boat was a speck in the rain.
 
 ---
 
@@ -560,7 +574,7 @@ She didn't remember Wren at all. That was the first thing. Wren had wondered all
 
 "Was it?" She went on sorting. "I like it here better. It's steady."
 
-> ◆ **GAME** · **Return: the Courier.** If the player chose to **walk away** in Chapter 7, Tess's line in this scene changes (see below). Holding **[ GIVE IT BACK ]**: **THRESHOLD is lost from the kit.** The guardian re-forms smaller.
+> ◆ **GAME** · **Return: the Courier.** If the player chose to **walk away** in Chapter 7, Tess's line in this scene changes (see below). Holding **[ GIVE IT BACK ]**: **THRESHOLD is lost from the kit.** The underdrawing radius pulls in. The guardian re-forms, more finished.
 
 Wren asked her. She said she didn't mind either way. Wren told her what she'd said to them by the fire at the Gallowgate, about Nell, and one night, and the letter at the bottom of the left-hand satchel. Tess listened, politely, sorting letters into holes.
 
@@ -584,41 +598,45 @@ All of them. The sack on the floor, the pigeon-holes on the wall, every letter i
 
 Her voice had all its speed back.
 
-"Where's the — I opened it. I *opened* it, I sat on the step and I — she married a cooper. She's alive. Nell's *alive*, she's alive and she's married and she's *all right*, and I read it, I read it and I didn't even —" She was crying. It came out of her all at once, like the letters. "I didn't even feel it, Wren. I read that she was alive, I read that my best friend was alive, and I felt *nothing.* I left it on the *step*. I left it on the step and walked off to *Hexham.*"
+"Where's the — I opened it. I *opened* it, I sat on the step and I read it. She wasn't well. She *asked* me. She asked me to come and I said *that's a shame* and I left it on the *step*." She was white. "I left it on the step and walked off to *Hexham*."
 
 Oren took the letter out of the inside pocket of his coat.
 
-He'd carried it the whole way. From the Gallowgate's front step, up the moor road, through Corran and the white road and the Stillhouse and the Quiet Room and back down again: all of it. He'd never once looked at it. He took it out now, soft and grey with all those miles, and held it out across the counter to Tess. He looked a little puzzled at himself as he did it, as though his hand had decided.
+He'd carried it the whole way. From the Gallowgate's front step, up the moor road, through Corran and the white road and the Stillhouse and the Quiet Room and back down again: all of it. He'd never once looked at it. He took it out now, soft and grey with all those miles, and held it out across the counter to Tess. He looked a little puzzled at himself as he did it.
 
 Tess took it.
 
-She opened it again. She read it again. Wren watched her read it: watched her eyes go along the lines, slowly this time, and stop, and go back, and go on.
+She opened it again. She read it again. Wren watched her read it: watched her eyes go along the lines, slowly this time, and stop, and go back, and go on. It wasn't long. Wren could see that from across the counter. Half a page, in a round, careful hand that got less careful toward the bottom.
 
-"Oh," said Tess, through the crying. And then she was laughing, too, both at once. "Oh, she's so *happy*."
+Tess turned it over and looked at the date.
 
-She read it a third time.
+"Two years," she said. "She wrote this two years ago." Her voice had gone very small. "*I'm not better. You said once you'd always come. Where are you.*" She put it down on the counter. "Two years, and I carried it round in a bag so I wouldn't have to know, and then I read it and I didn't *mind*."
 
-"She wants me to come," said Tess. "She says — she says she understands. About the coast. About all of it. She says her god's quieter now, and she married a man with a very loud god and very big hands, and they've got a spare room, and she wants me to come and stay. Not for a night." She looked up. "As long as I like."
+The Courier was halfway out of the door. It always would be. It was straining, long paper legs out in the square, head turned away toward the road.
 
-The Courier was halfway out of the door already. It always would be. It was straining, long paper legs out in the square, head turned away toward the road. Toward the coast, or the north, or anywhere.
+Tess looked at it.
 
-Tess looked at it. She was terrified. Wren could see it in her face: all of it back, every year of running.
+"I don't know if she's —" Tess said. She didn't finish. She didn't need to. Everybody in the post office knew how the sentence ended. "I don't know if she's anything any more."
 
-Then she reached out, and caught hold of one of its envelope-hands. And held it. And didn't let go.
+She grabbed a satchel from under the counter. Only one. She came round the counter at a run, and stopped in the door, with the Courier already out in the square ahead of her, for once pointing at one road and not all of them.
 
-"Not this time," said Tess, to her god. "Not this time, love."
-
-She looked at Wren over the counter.
-
-"You walked away," she said. "That first time. In the strongroom. I remember now. You opened the door and you walked away and it came back and made you." She wiped her eyes on her sleeve. "I remember that."
+"You walked away," she said to Wren. "That first time. In the strongroom. I remember now. You opened the door and you walked away and it came back and made you." She wiped her eyes on her sleeve. "I remember that."
 
 > ◆ **GAME** · Variant: if the player chose **Take It** in Chapter 7 without walking away, Tess's line is instead: *"You didn't want to. In the strongroom. I could see you didn't want to."*
+
+"Tess. If you find her —"
+
+"I'll write," said Tess. "Where?"
+
+"Callow's," said Wren. "The dye works. Lowmarrow."
+
+Tess nodded, once, and went. The Courier went ahead of her down the Tollway road at a long-legged run, and she ran after it, and neither of them looked back.
 
 ---
 
 They walked down the Tollway in the afternoon.
 
-Wren walked slowly now. Everything took longer. The left side of Wren was almost all paper; the coat hung off it, and when the wind came across the moor the coat flapped as though there were nothing much under it. The stitches had given up. Mira had stopped sewing them in the daytime. She walked on Wren's left, close, her arm through Wren's arm, so that if the wind came she'd be there.
+Wren walked slowly now. Everything took longer. The left side of Wren was almost all paper; the coat hung off it, and when the wind came across the moor the coat flapped as though there were nothing much under it. The stitches had given up. Mira had stopped sewing them in the daytime. There was nothing left to sew them with but the coat she was wearing, and Wren had made her promise to stop. She walked on Wren's left, close, her arm through Wren's arm, so that if the wind came she'd be there.
 
 Wren had two gods left now. The Hound, warm and frightened, deep down. And the Veiled, who wanted to go home, and wasn't allowed.
 
@@ -626,9 +644,15 @@ And the underdrawing had pulled in, mile by mile, god by god, until it was hardl
 
 The guardian walked on Wren's right.
 
-It came up to Wren's shoulder now. Its lines were clean, almost: fewer marks, fewer guides, simpler. It didn't speak much. It walked beside Wren down the road the way Oren walked: easily, steadily, not asking where they were going.
+It was Wren's height, and Wren's shape, in Wren's coat, and it had begun, since Hexham, to have a face. Not much of one. Lines where the eyes would go. A line for the nose. Lightly, as though it were still making up its mind. It didn't speak much. It walked beside Wren down the road the way Oren walked: easily, steadily, not asking where they were going.
 
-*Two left,* it said, once.
+Mira looked at it once, across Wren, and then didn't look at it again.
+
+"Wren," she said, very low. "Why is it wearing your coat?"
+
+"I don't know."
+
+*Two left,* said the guardian.
 
 "Yes."
 
@@ -642,8 +666,8 @@ It walked on beside them a while, saying nothing.
 
 "I know."
 
-It didn't say anything else. But Wren noticed it walked closer after that, close enough that its pencil arm almost brushed Wren's coat. And once, on the stile at the top of the Tollway road, where Wren's paper leg wouldn't lift properly, Wren felt a hand under their elbow. Not Mira's. Mira was on the other side.
+It didn't say anything else. But Wren noticed it walked closer after that, close enough that its arm almost brushed Wren's coat. And once, on the stile at the top of the Tollway road, where Wren's paper leg wouldn't lift properly, Wren felt a hand under their elbow, helping them over. Not Mira's. Mira was on the other side.
 
-It was very light. Like the touch of a pencil.
+It was very light. Like the touch of a pencil. It was in no hurry at all. It only wanted Wren to get home.
 
-> ◆ **END OF CHAPTER 24.** *Kit at this point (canonical route): **Watchlight** (the Hound) and **Unwatched** (the Veiled), plus whatever Stitches remain. The guardian is shorter than Wren's shoulder. Next: Hollin's Lamp.*
+> ◆ **END OF CHAPTER 24.** *Kit at this point (canonical route): **Watchlight** (the Hound) and **Unwatched** (the Veiled), plus whatever Stitches remain. The underdrawing radius is a few yards. The guardian is Wren's height and Wren's shape, in Wren's coat, with the first lines of a face. Next: Hollin's Lamp.*

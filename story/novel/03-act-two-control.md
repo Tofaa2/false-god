@@ -86,7 +86,7 @@ On its pencil chest, roughly traced over the construction lines, was a lantern: 
 
 It looked at Wren across the yard. Wren looked back.
 
-*Look at us,* said the guardian. And it said it warmly. It had never said anything warmly before. *Look how strong we are now. Nobody laughs at us any more.*
+*Look at us,* said the guardian. And it said it warmly. It had never said anything warmly before. *Look how strong we are now. Nobody will ever have to look after us again.*
 
 Wren didn't say anything.
 
@@ -284,71 +284,99 @@ The play that night was *The Queen of Ashes*, and it was the best thing Wren had
 
 Juniper was the Queen. She was magnificent. She was a different person; she was a dozen different people, all of them the Queen. She was furious and she was tender and she was terrible, and when in the second act her son betrayed her, she sat down on the floor of the stage like a child and said, *"Oh,"* very quietly, and two thousand people in the Lyceum made the same small sound at the same time.
 
-And she was afraid. The whole time. Wren could see it from the box. Every time she came off into the wings, between scenes, she stood in the shadow of the flats with her hands pressed flat against her stomach, shaking. And something was behind her. Something tall, that Wren couldn't quite see.
+And she was afraid. The whole time. Wren could see it from the box. Every time she came off into the wings, between scenes, she went to the same place, in the shadow behind the flats, and stood with her back to the stage and her hands pressed flat against her stomach, shaking, where nobody in the house could see. Then the cue came, and she straightened, and turned, and walked back out into the light as the Queen. And something was behind her the whole time. Something tall, that Wren couldn't quite see.
 
 In the third act, there was a comic scene. A drunk porter, a gravedigger, an old Velle tradition, a bit of relief before the end. The audience laughed. The whole Lyceum laughed, two thousand people at once, a great warm roar of it rolling up out of the stalls.
 
-In the wings, the thing behind Juniper turned toward the sound.
+In the wings, Juniper bent over. She didn't make a sound. She stood with her back to all that laughter and her shoulders going, crying the way people cry when they have learned to do it in a room with other people in it.
 
-*They're laughing,* said Wren's guardian, from somewhere very close.
+*Don't look at her,* said Wren's guardian.
 
-Wren turned. It was in the box with them. It had never sounded like this before.
+It was in the box with them. Wren hadn't seen it come. It was standing at the back, in the dark, wearing all its traced ink, its lantern and glass and letters and weed, and it had never sounded like this before.
 
-*Do you hear them? They're all laughing at — no. No. Not at you. Not at you. Not again.*
+*Look away. Look at the stage. You know what happens when you look. You look, and then you can't stop knowing, and then you go and tell someone, and then —*
 
-Wren looked at it. It was standing in the back of the box, wearing all its traced ink, its lantern and glass and letters and weed, and it was *shaking*.
-
-The laughter rolled up again from the stalls.
+Wren didn't look away. Wren was looking at a woman crying with her back to the room.
 
 And Wren felt something on the back of their own neck, cold, like a draught from a door left open fifteen years ago.
 
-> ◆ **GAME** · **FLASHBACK (playable).** The laughter from the stalls cross-fades into other laughter. Hard cut to the game's only **flashback**, played as nine-year-old Wren.
+> ◆ **GAME** · **FLASHBACK (playable).** The laughter from the stalls thins out into the sound of a kitchen tap running. Hard cut to the game's only **flashback**, played as nine-year-old Wren. No HUD. No guardian. The god on Wren's shoulder is a small brown bird.
 
 ---
 
-*Midwinter. Lowmarrow. Fifteen years ago.*
+*Lowmarrow. Fifteen years ago.*
 
-The square was full of people and it was full of colour. That was the first thing: colour. Wren had forgotten. The baker's awning was red, really red. There were lanterns strung across the square in green and gold. The snow was white and the sky was dark blue and the Midwinter Lamp was black iron with its glass cage at the top, empty, waiting.
+The kitchen light was on. That was the first thing. It was the middle of the night and the kitchen light was on, and Wren was on the stairs in their nightshirt, on the fourth stair down, where you could see through the banisters and not be seen.
 
-Wren was nine. Wren was holding the taper.
+Mam was at the sink with her back to the room.
 
-It was long and heavy, a wooden pole with a brass cup at the top and a flame in the cup, and Wren held it in both mittens and was terrified. Every year a child was chosen to carry the flame up the steps of the Lamp and light it, and this year it was Wren. Wren had been chosen out of everyone. Wren's mother was in the crowd somewhere, and she'd cried when they told her, happy crying, and her heron had danced about the kitchen.
+The tap was running. She wasn't washing anything. She was standing with both hands on the edge of the sink and her head down, and her shoulders were going, and she wasn't making any sound at all. Wren knew that because Wren had listened through the wall for a long time before coming down, and there had been nothing to hear except the tap.
 
-Wren's god was on Wren's shoulder. It was small, then. It was a little brown bird, a scribble of a bird, round and quick, with a tail that stuck up. It had been with Wren since the day Wren was born. It used to sing.
+The heron was pacing.
 
-It wasn't singing now. It was holding very tight to Wren's collar.
+It was tall then, as tall as the door, grey and narrow and anxious, and it walked the length of the kitchen and turned and walked back, and turned. Its long neck jerked at every noise. On one of the turns its wing caught the dresser, and a plate came off and broke on the flags. The heron stopped. It looked at the pieces. Then it stamped on them, carefully, one after another, as though it were the plate's fault. Mam didn't turn round.
 
-The crowd went quiet. Old Callow, who was mayor that year, nodded. Somebody started to play a fiddle.
+Wren's god was on Wren's shoulder. It was small, then. A little brown bird, a scribble of a bird, round and quick, with a tail that stuck up. It had been with Wren since the day Wren was born. It used to sing. It wasn't singing. It was holding very tight to Wren's collar, the way it did every night now.
 
-Wren began to walk.
+> ◆ **GAME** · The player can go down into the kitchen, or go back to bed. If they go down, Mam says *"Go back up, love. I'm all right,"* without turning round, whatever the player does: touch her, stand beside her, pick up the pieces of the plate. Every action gets the same line. Going back to bed fades to the next morning. So does staying in the kitchen until the tap is turned off.
 
-> ◆ **GAME** · The player controls nine-year-old Wren carrying the taper across the square to the Lamp. The crowd watches. Movement is slow and careful. The steps up the Lamp's iron platform are **the same steps** the player will climb at the end of the game. Climbing them, the controls behave perfectly until the **fifth step**, where Wren trips **whatever the player does**. The fall cannot be avoided. Players will try. That's the point.
+"Go back up, love," said Mam, without turning round. "I'm all right."
 
-There were seven steps up to the platform at the foot of the Lamp. Wren had counted them every day for a week. Wren went up the first, and the second, and the taper was heavy, and the flame in the brass cup wobbled, and the crowd was very quiet, and Wren could feel all their eyes, hundreds of eyes, like heat on the back of the neck.
+She said it every night. She had said it every night since the summer.
 
-On the fifth step Wren's boot caught.
+---
 
-It was the left boot. The sole was loose. Wren would remember that later, much later: it was only a loose sole. And Wren went forward, and the taper went forward, and the brass cup hit the iron of the sixth step, and the oil in the cup went out across the steps and down onto the cobbles in a long bright splash.
+In the morning there was a poster on the gable end of the house opposite. Good white paper. The only white thing in the street.
 
-And caught.
+**THE ORDER OF THE STILL HAND**
+**RECKONING: TODAY, TOWN HALL**
+**ALL WELCOME · NO CHARGE · NO SHAME**
 
-It wasn't a big fire. It was a line of flame along the cobbles, low and blue, and it lasted perhaps ten seconds. Nobody was hurt. But the crowd jumped back, and somebody screamed, and the fiddle stopped, and Wren was lying on the iron steps with the taper on top of them and the fire on the cobbles below.
+Someone had drawn a small smiling sun in the corner.
 
-And then somebody laughed.
+Wren read it twice. Then Wren went out of the house without any breakfast, while Mam was still asleep, and down Cobble Lane, and across the square, which was full of colour then, the baker's awning really red, and up the steps of the town hall.
 
-It wasn't cruel. Wren knew that now, at twenty-four, watching it. It was the kind of laugh that comes out of a crowd when it's had a fright and the fright turns out to be nothing, a nervous, rushing, relieved laugh. One person, and then a dozen, and then the whole square, hundreds of people laughing, because the child had fallen over and nobody was hurt.
+> ◆ **GAME** · The player walks nine-year-old Wren through Lowmarrow to the town hall. It is the same route as Chapter 2, in full colour. Inside, it is the same room as Chapter 3, with the same ropes and the same white canopy. The line is shorter. Adults look down at Wren and then away. Nobody stops a child from standing in a line. The camera stays low, at a child's height, for the whole sequence.
 
-Wren lay on the steps and the laughter went over them like the heat from the Hound's lantern.
+The line wound once around the room between the ropes. Wren stood in it. A man in front of them had a god like a wet dog, and a woman behind had a god that kept asking her the time. Nobody asked Wren what they were doing there. Wren had thought somebody would.
 
-A man was stamping out the fire. Younger then, but big already. Scruffy. With a dog at his heels, a big young orange dog with a lantern in its chest, barking at the flames. He stamped out the last of the blue flame on the cobbles, and he came up the steps and crouched down beside Wren and picked up the taper, and helped Wren sit up.
+The assessor at the desk was an old woman in white with a soft, tired face. When Wren got to the front she had to lean forward over the desk to see them.
 
-"Hey," said Oren Tamsin, fifteen years younger. "Hey, now. Happens to everyone, little bird."
+"Hello," she said. "Are you lost?"
 
-Wren didn't hear him. Wren didn't hear him then, at all, and so had never remembered it. But Wren heard it now, at twenty-four, in a theatre box in Velle, fifteen years later. *Happens to everyone, little bird.*
+> ◆ **GAME** · The dialogue wheel opens. **For the only time in the game, all three options are in Wren's own ink and none is in the guardian's pencil**: *"My mam cries every night." · "Her god breaks the plates." · "Can you help her?"* All three are true. Whichever the player picks, the other two are said as well, one after another, because a child who has started telling doesn't stop.
 
-The festival was called off. The lamp wasn't lit that year. Wren's mother took Wren home through the snow without saying much.
+"My mam cries every night," said Wren. "In the kitchen. With the tap on so I won't hear. And her god breaks the plates. It broke one last night. It's not her fault. She doesn't turn round." Wren's voice was doing something it hadn't been told to. "Can you help her?"
 
-That night, in bed, in the dark, the little brown bird on the pillow stopped being a bird.
+The assessor looked at Wren for a long time. Then she wrote something in her ledger.
+
+"That was very brave," she said. "Coming on your own. We'll go and see her this afternoon. You go home now."
+
+She gave Wren a little white pamphlet. On the bird on Wren's shoulder she rested two fingers, very lightly, as if to say *there now*, and the bird went still under them and then, when she took them away, shook itself.
+
+---
+
+They came at three. Two of them, in white, with their hands folded. Wren opened the door.
+
+"Is your mother in?" said the first one. "Your little one came to see us," she said, past Wren, to Mam, who had come into the passage behind. "This morning. On their own."
+
+Mam looked at Wren.
+
+She looked for a long time. She didn't ask anything. Wren would spend fifteen years not remembering that look, and in a theatre box in Velle would remember all of it at once: not angry. Not even surprised. The look of someone who has just found out that it showed. That she had stood with her back to the room every night since the summer, and it had shown anyway, and a child had seen it, and a child had had to carry it down Cobble Lane on their own.
+
+Then she went and got her coat.
+
+---
+
+She came back at six. Wren was sitting on the stairs, on the fourth stair, where you could see.
+
+She came through the door and took off her coat and hung it on the hook, the right way up, which she never did. The heron walked in behind her, small and grey and silent, and folded itself on the mat. She made supper. She asked Wren if they'd had a nice day. It was the nicest supper they had had since the summer.
+
+That night there was no tap running. There was nothing through the wall at all.
+
+Wren lay in bed in the dark and listened to the quiet, and the thing Wren felt was so big and so warm that it frightened them. It was a long time before they had a name for it. It was *relief*. They were glad. Their mother had gone to the town hall and come back with nothing in her face, and Wren was glad, because now they could sleep.
+
+On the pillow, the little brown bird stopped being a bird.
 
 Wren didn't see it happen. Wren felt it. Something behind them, on the pillow, getting longer. Something that had been round and quick and small becoming tall and slow and grey. A scribble of a bird turning into the first lines of something else. Something made of construction lines. The underdrawing of a thing that would never get finished.
 
@@ -358,7 +386,7 @@ And it spoke. Its first full sentence. In the dark, very quietly, in a voice tha
 
 ---
 
-> ◆ **GAME** · Hard cut back to the theatre box. The laughter in the stalls is now *unbearably* loud. The guardian is gone from the box. The Veiled is loose.
+> ◆ **GAME** · Hard cut back to the theatre box. The laughter in the stalls is now *unbearably* loud. The guardian is gone from the box. The Veiled is loose. From this point the player knows what *that* is, and the guardian's refrain from Chapter 1 now means something specific: **we won't tell anyone. We won't ask. Look what asking does.**
 
 > ◆ **BOSS: THE VEILED** · A **shame** god. It is **invulnerable whenever the player is looking at it**: lock-on makes it vanish, and centring the camera on it makes it fade. It strikes when Wren's back is turned. The player has to fight **without lock-on**, tracking it by sound, by the shadows it throws on the flats, and by catching its reflection in the mirrors of the backstage maze. The fight runs through the Lyceum backstage *during the live performance*: the audience can be heard through the flats, and **each wave of audience laughter makes the Veiled stronger**. Phase 2 moves onto the stage itself, in front of the audience. The house lights are down, so the audience is only a dark mass, but it's watching.
 
@@ -404,7 +432,7 @@ Wren nodded back.
 
 "Oh." He watched her go. "She looks nice."
 
-*She's free,* said the guardian, softly. But it said it with less certainty than it used to. It was still looking at the Lyceum, up on the hill, where the laughter had been.
+*She's free,* said the guardian, softly. *Nobody will ever have to see her like that again.*
 
 ---
 
@@ -554,29 +582,29 @@ There were fourteen. They'd been on the desk in the east tower room for weeks, i
 
 Wren's voice was level and pleasant and unhurried. It didn't catch on anything.
 
-> ◆ **GAME** · Mira's letters are voiced **for the first time**, in **Wren's post-Stilling voice**: flat, polite, even. Still no music under them. The player hears Mira's love in full, and hears it land on nothing. Subtitles show Mira's handwriting.
+> ◆ **GAME** · Mira's letters are voiced **for the first time**, in **Wren's post-Stilling voice**: flat, polite, even. Still no music under them. The player hears Mira in full, and hears it land on nothing. Subtitles show Mira's handwriting.
 
-"*Wren,*" Wren read. "*The dye took on the blue bolt today. Only a little. Father cried. I didn't tell him it's already fading.*" A pause, to turn the page. "*There's a cup on the windowsill.*"
+"*Wren,*" Wren read. "*The dye took on the blue bolt today. Only a little. Father cried. I didn't tell him it's already fading.*"
 
 "That's nice," said Oren.
 
-"*Wren. Lamp the cat has moved the kittens out of your boots and into my hatbox. I've decided this is a promotion. They're very loud. I didn't know kittens could be that loud. I've been lying awake listening to them and thinking that's what a house sounds like when there's something alive in it.*" Wren turned the page. "*There's a cup on the windowsill.*"
+"*Wren. The thread's still on the gate. I put my hand on it every morning before the works opens. It's warm. I know that's the Mender, not you. I do it anyway.*"
 
-"*Wren. The thread's still there. I go down to the gate every morning before the works opens and put my hand on it. It's warm. I don't know how it's warm. The Mender says it's because you're on the other end of it, which I think is the most sentimental thing it has ever said, and I've told it to stop. There's a cup on the windowsill.*"
+"*Wren. Your mother asked after you at church. I said you were well. I don't know if that's true. She said 'that'll be nice.' I had to go and stand outside for a bit.*"
 
-"*Wren. I've stopped tipping the cup out at night. I just leave it. I don't know why. Father thinks I've gone strange.*"
+"*Wren. I've stopped tipping the cup out at night. I just leave it on the sill. Father thinks I've gone strange.*"
 
-"*Wren. Bad day today. Only telling you because I told you to tell me. Fair's fair. Bad. There's a cup on the windowsill.*"
+"*Wren. Bad day today. Only telling you because I told you to tell me. Fair's fair. Bad.*"
 
-Fourteen times. *There's a cup on the windowsill.* Wren read them all.
+Wren read them all. There were more bad days, toward the end, and they got shorter. One said only *Bad.* and the date.
 
-The last one was shorter than the others. The writing was different: slower, more careful, as though she had written it several times on other paper first and copied it out.
+The last one was longer than the others. The writing was different: slower, more careful, as though she had written it several times on other paper first and copied it out.
 
-"*Wren,*" Wren read. "*I don't know if you're reading these. I'm going to keep writing them anyway. I want to say one thing, in case it's the thing you need and nobody's said it.*
+"*Wren,*" Wren read. "*I don't know if you're reading these. If you're not, it doesn't matter what I put, so I'm going to put it.*
 
-"*I'm not keeping the cup for whoever comes back fixed. It's for whoever comes back.*
+"*I should have said it at the gate. I love you. I've loved you since about the second year of the cup, which is a stupid way to measure anything. I'm not going to say it again in a letter, it looks ridiculous written down.*
 
-"*There's a cup on the windowsill.*
+"*If I haven't heard from you by the end of the month I'm coming north. Father can keep the books. He'll get them wrong.*
 
 "*M.*"
 
